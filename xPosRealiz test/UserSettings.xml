@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+	<appSettings>
+		<add key="use" value="true"/>
+		<add key="terminals" value="7,8"/>
+		<add key="weightGood" value="200"/>
+		<add key="ClientSettingsProvider.ServiceUri" value=""/>
+	</appSettings>
+</configuration>
